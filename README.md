@@ -1,3 +1,3 @@
 best-repo-ever
-Alteração feita na new-branch-1
+Alteração diferente feita na new-branch-2
 Alteração feita na myfeaturebranch
